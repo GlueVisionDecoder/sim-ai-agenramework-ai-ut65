@@ -1,4 +1,4 @@
-# 
+# Sécurisé Sim AI Agent Framework scripts. Avec IA de bord et détection d'objets — optimisé pour des performances maximales.
 
 
 
